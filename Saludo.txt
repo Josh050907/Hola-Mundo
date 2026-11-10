@@ -1,3 +1,5 @@
 Chat
 
 Joshua: ¿Qué es POO?
+
+La POO (Programación Orientada a Objetos) es un paradigma de programación basado en organizar el software en torno a objetos que integran datos y comportamientos, similar a cómo funcionan las entidades del mundo real.

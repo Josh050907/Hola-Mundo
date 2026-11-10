@@ -7,3 +7,5 @@ Hola
 3. ¿Qué es un lenguaje de programación?
 
 4. ¿Qué significa que un programa tenga un "bug" (error)?
+
+5. ¿Qué es el control de versiones (como Git)?
