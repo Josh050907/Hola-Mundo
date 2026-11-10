@@ -1,4 +1,7 @@
-hola 
+hola
+ 
 ¿cuéntame como te va ya creaste la nueva rama?
 
 ¿Pudiste ver la solicitud de extracción (Pull Request) que abrí en tu repositorio?
+
+POO significa Programación Orientada a Objetos, es un paradigma de programación.
