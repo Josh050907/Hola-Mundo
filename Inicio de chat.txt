@@ -1,4 +1,5 @@
 Hola
 
 1. ¿Qué es la POO?
-2. ¿Qué es la diferencia entre software y hardware?
+
+No, no estuvo complicada la clases de cierta forma
