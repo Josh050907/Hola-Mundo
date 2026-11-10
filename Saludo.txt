@@ -11,3 +11,4 @@ POO significa Programación Orientada a Objetos, es un paradigma de programació
 
 ¿te parecio difícil la clase de hoy sobre el entorno virtual git?
 ¿Cuáles son los comandos que estamos utilizando?
+¿Qué es un diagrama de clase?
