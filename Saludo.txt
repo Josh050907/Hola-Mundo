@@ -1,3 +1,14 @@
+hola
+ 
+¿cuéntame como te va ya creaste la nueva rama?
+
+¿Pudiste ver la solicitud de extracción (Pull Request) que abrí en tu repositorio?
+POO significa Programación Orientada a Objetos, es un paradigma de programación.
 Chat
 
 Joshua: ¿Qué es POO?
+POO significa Programación Orientada a Objetos, es un paradigma de programación.
+
+¿te parecio difícil la clase de hoy sobre el entorno virtual git?
+¿Cuáles son los comandos que estamos utilizando?
+¿Qué es un diagrama de clase?
