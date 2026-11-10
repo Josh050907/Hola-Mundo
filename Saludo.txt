@@ -2,3 +2,6 @@ hola
 ¿cuéntame como te va ya creaste la nueva rama?
 
 ¿Pudiste ver la solicitud de extracción (Pull Request) que abrí en tu repositorio?
+Chat
+
+Joshua: ¿Qué es POO?
