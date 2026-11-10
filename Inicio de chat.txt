@@ -1,0 +1,4 @@
+Hola
+
+1. ¿Qué es la POO?
+2. ¿Qué es la diferencia entre software y hardware?
